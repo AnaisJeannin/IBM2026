@@ -2,21 +2,21 @@
 layout: base
 ---
 
-# IBM2026 - Prototyping for Bioengineers
+# IBM2027 - Introducción al Prototipado de Bioinstrumentación
 
-_Esta página web forma parte de los recursos del curso de pregrado IBM2026 Prototyping for Bioengineers. Los profesores y ayudantes de este curso forman parte del [Instituto de Ingeniería Biológica y Médica](https://ingenieriabiologicaymedica.uc.cl/es/)._
+_Esta página web forma parte de los recursos del curso de pregrado IBM2027 Introducción al Prototipado de Bioinstrumentación. Los profesores y ayudantes de este curso forman parte del [Instituto de Ingeniería Biológica y Médica](https://ingenieriabiologicaymedica.uc.cl/es/)._
 
 ## Bienvenido/a
 
-Este curso permite a los estudiantes desarrollar habilidades prácticas para diseñar y construir prototipos en ingeniería (hardware) y biología (ADN, ecosistemas microbianos y reacciones in vitro). El curso cubre los fundamentos teóricos (clases) y prácticos (laboratorio) de la fabricación digital moderna, la integración y automatización, y la creación de prototipos con biología. Para el aprendizaje práctico, cada estudiante montará un biosensor sin células, diseñará un objeto impreso en 3D, montará un prototipo de bomba de jeringa y lo utilizará en un reto para controlar el flujo en un chip microfluídico. A través de conferencias e investigación abierta, los estudiantes también aprenderán dónde encontrar recursos para la creación de prototipos, cómo gestionar archivos, documentar abiertamente y colaborar con otros creadores en línea. La evaluación se basará en la participación, las presentaciones, y la creación de prototipos.
+En este curso se permitirá a los y las estudiantes desarrollar habilidades prácticas para diseñar y construir prototipos en ingeniería(hardware). El curso cubre los fundamentos prácticos de la fabricación digital moderna, la integración de la electrónica, la mecánica y la óptica, y la automatización para la bioinstrumentación libre. Para el aprendizaje práctico, cada estudiante creará e imprimirá un objeto en 3D, manipulará un prototipo de bomba de jeringa y aprenderá sobre el control de flujo en un chip microfluídico. Además, serán capaces de encontrar recursos para la creación de prototipos, cómo encargar archivos, documentar abiertamente y colaborar con otros creadores en línea. La metodología de aprendizaje, considera conferencias, ejercicios e investigación abierta. La evaluación se basará en presentaciones, ejercicios de creación de prototipos y cuestionarios.
 
 ## Contenido
 
 1. [Git y GitHub](github.md)
-2. [Impresión 3D]()
-3. [Corte Láser]()
-4. [Electrónica abierta para prototipado]()
-5. [Microscopía Automatizada: Open Flexure Microscope]()
+2. Impresión 3D
+3. Corte Láser
+4. Electrónica abierta para prototipado
+5. Microscopía Automatizada: Open Flexure Microscope
 
 ## Contacto
 

@@ -18,6 +18,7 @@ La sesión ha sido estructurada de la siguiente manera:
 
 ## Clases
 
+- [Clase 2026-01](class_2026_01.md)
 - [Clase 2025-01](class_2025_01.md)
 - [Clase 2024-01](class_2024_01.md)
 
